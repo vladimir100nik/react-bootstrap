@@ -39,35 +39,35 @@ class About extends Component {
                         <Col sm={9}>
                             <Tab.Content className="mt-5">
                                 <Tab.Pane eventKey="first">
-                                    <img className="w-100" src={design} alt="tabContent"/>
+                                    <img className="img-fluid w-100" src={design} alt="tabContent"/>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem culpa, delectus
                                         doloremque iure laborum mollitia nisi, placeat porro praesentium, recusandae
                                         rerum
                                         unde vel. Recusandae, sapiente.</p>
                                 </Tab.Pane>
                                 <Tab.Pane eventKey="second">
-                                    <img className="w-100" src={team} alt="tabContent"/>
+                                    <img className="img-fluid w-100" src={team} alt="tabContent"/>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aliquid est facilis
                                         fugiat iusto libero nostrum nulla omnis recusandae sit sunt tenetur, ullam vel.
                                         A ex fuga harum ipsum iusto laboriosam, laborum laudantium, minus perspiciatis
                                         porro rerum saepe ut voluptatem?</p>
                                 </Tab.Pane>
                                 <Tab.Pane eventKey="third">
-                                    <img className="w-100" src={programming} alt="tabContent"/>
+                                    <img className="img-fluid w-100" src={programming} alt="tabContent"/>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem culpa, delectus
                                         doloremque iure laborum mollitia nisi, placeat porro praesentium, recusandae
                                         rerum
                                         unde vel. Recusandae, sapiente.</p>
                                 </Tab.Pane>
                                 <Tab.Pane eventKey="fourth">
-                                    <img className="w-100" src={frameworks} alt="tabContent"/>
+                                    <img className="img-fluid w-100" src={frameworks} alt="tabContent"/>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem culpa, delectus
                                         doloremque iure laborum mollitia nisi, placeat porro praesentium, recusandae
                                         rerum
                                         unde vel. Recusandae, sapiente.</p>
                                 </Tab.Pane>
                                 <Tab.Pane eventKey="fifth">
-                                    <img className="w-100" src={lib} alt="tabContent"/>
+                                    <img className="img-fluid w-100" src={lib} alt="tabContent"/>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem culpa, delectus
                                         doloremque iure laborum mollitia nisi, placeat porro praesentium, recusandae
                                         rerum
