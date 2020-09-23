@@ -8,7 +8,7 @@ import thisisengineering from '../assets/pexels-thisisengineering-3861976.jpg';
 class CarouselBox extends Component {
     render() {
         return (
-            <Carousel>
+            <Carousel className="carousel">
                 <Carousel.Item>
                     <div className="carouselItem">
                         <img className="d-block w-100" src={fauxels} alt="fauxels"/>

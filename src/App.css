@@ -1,13 +1,21 @@
 body {
     height: 100px;
 }
+
+
 .carouselItem {
     height: 100%;
 
 }
 
 .carouselItem img {
+    height: 1000px;
     filter: alpha(Opacity=25);
-    opacity: 0.25;
+    opacity: 0.50;
+}
+.carousel {
+    margin: 0 auto;
+    max-width: 1920px;
+    height: auto;
 }
 
